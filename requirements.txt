@@ -1,0 +1,12 @@
+bigml
+kaggle
+matplotlib
+rise
+jupyter_contrib_nbextensions
+papermill
+seaborn
+ipynb
+pandas
+numpy
+scipy
+sklearn
