@@ -1,0 +1,12 @@
+/.ipynb_checkpoints
+/Data
+*.csv
+*.env
+*.joblib
+auth.env
+/Autre
+/Drafts
+/R analysis
+/.local
+/.cache
+/.ipynb_checkpoints
