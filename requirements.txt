@@ -11,3 +11,6 @@ numpy
 scipy
 sklearn
 xgboost
+pandas_profiling
+tensorflow
+keras
