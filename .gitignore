@@ -13,3 +13,6 @@ auth.env
 *.auth
 Dockerfile
 docker-compose.yaml
+/Backup
+/Backup2
+.vscode
